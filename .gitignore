@@ -1,0 +1,11 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# App generated files
+prediction.mp3
+*.pdf
+
+# Virtual environment
+venv/
+.env
